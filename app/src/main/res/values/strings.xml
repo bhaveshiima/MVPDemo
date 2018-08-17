@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MVPDemo</string>
+
+    <string-array name="type">
+        <item>Select</item>
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
 </resources>
